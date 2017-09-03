@@ -3,7 +3,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'ember-quickstart',
+    modulePrefix: 'ember-try',
     environment,
     rootURL: '/',
     locationType: 'auto',
